@@ -1,2 +1,2 @@
 # hello-world
-Para el tutorial
+Para el tutorial y aprender muchas cosas <3
